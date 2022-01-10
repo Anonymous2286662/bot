@@ -15,4 +15,6 @@ pkg install python3
 
 pip3 install -r requirements.txt 
 
+#change TOKEN in userbot.py
+
 python userbot.py 
