@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardRemove, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 
 
-bot = Bot(token="5005602397:AAGnxBKUNRfpVeFwsLUMMWVFuOFCIo20X58")
+bot = Bot(token="TOKEN")
 bot = Dispatcher(bot)
 logging.basicConfig(level=logging.INFO)
 
