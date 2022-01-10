@@ -11,7 +11,7 @@ git clone https://github.com/Anonymous2286662/bot
 
 cd bot 
 
-pkg install python 
+pkg install python3
 
 pip3 install -r requirements.txt 
 
